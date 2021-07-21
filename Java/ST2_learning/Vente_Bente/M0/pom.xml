@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>com.github.Archi-Lab</groupId>
 			<artifactId>spring-test-lib</artifactId>
-			<version>931381a</version>
+			<version>c88bce6</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

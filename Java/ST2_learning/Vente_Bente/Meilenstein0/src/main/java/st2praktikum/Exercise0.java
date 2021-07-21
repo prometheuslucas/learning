@@ -1,6 +1,4 @@
-package thkoeln.st.st2praktikum.exercise;
-
-import javax.swing.text.Position;
+package st2praktikum;
 
 public class Exercise0 implements Walkable {
     Integer[][] field = new Integer[8][12];
